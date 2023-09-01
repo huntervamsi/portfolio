@@ -1,0 +1,90 @@
+*{
+    background-color: black;
+}
+.icons{
+    width:1000px;
+    margin:auto;
+}
+.icons a{
+display:flex;
+justify-content: center;
+align-items:center;
+width:40px;
+height:40px;
+background:linear-gradient(45deg,#f06,#3ef);
+border-radius:50%;
+font-size:20px;
+color:#fff;
+text-decoration:none;
+margin:20px 0;
+z-index:1;
+}
+.icons h2{
+    color:#fff;
+}
+.icons1{
+    position:absolute;
+    width:100px;
+    margin:auto;
+    top:7%;
+    left:45%;
+}
+.icons1 a{
+display:flex;
+justify-content: center;
+align-items:center;
+width:40px;
+height:40px;
+background:linear-gradient(45deg,#f06,#3ef);
+border-radius:50%;
+font-size:20px;
+color:#fff;
+text-decoration:none;
+margin:20px 0;
+z-index:1;
+
+}
+.icons1 h2{
+    color:#fff;
+}
+.icons2{
+    position:absolute;
+    width:100px;
+    margin:auto;
+    top:7%;
+    left:70%;
+}
+.icons2 a{
+display:flex;
+justify-content: center;
+align-items:center;
+width:40px;
+height:40px;
+background:linear-gradient(45deg,#f06,#3ef);
+border-radius:50%;
+font-size:20px;
+color:#fff;
+text-decoration:none;
+margin:20px 0;
+z-index:1;
+
+}
+.icons2 h2{
+    color:#fff;
+}
+.con{
+    color:#fff;
+}
+a{
+ 
+ background:#212121;
+ padding:10px 15px;
+ text-decoration:none;
+ font-weight:bold;
+ color:#fff;
+ display:inline-block;
+ margin:30px 0;   
+}
+
+
+
